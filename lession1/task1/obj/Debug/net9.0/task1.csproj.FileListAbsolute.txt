@@ -12,3 +12,4 @@ C:\Users\User\OneDrive\Desktop\csharp\lession1\task1\obj\Debug\net9.0\refint\tas
 C:\Users\User\OneDrive\Desktop\csharp\lession1\task1\obj\Debug\net9.0\task1.pdb
 C:\Users\User\OneDrive\Desktop\csharp\lession1\task1\obj\Debug\net9.0\task1.genruntimeconfig.cache
 C:\Users\User\OneDrive\Desktop\csharp\lession1\task1\obj\Debug\net9.0\ref\task1.dll
+C:\Users\User\OneDrive\Desktop\csharp\lession1\task1\obj\Debug\net9.0\task1.sourcelink.json
